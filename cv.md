@@ -10,7 +10,7 @@ I am interested in IT sphere due to the following reasons. Nowadays nobody can i
 **Hard skills:**   HTML, CSS, GitHub, Basic JS.  
   
 **Education:**   Belarusian State Polytechnic College (electronics technician);  
- **courses:**   codecademy, htmlacademy. 
-    
+ **courses:**   codecademy, htmlacademy.  
+  
 **Additional Information:**  
 English Language – A2 (pre-intermediate).  
